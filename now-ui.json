@@ -1,0 +1,15 @@
+{
+	"components": {
+	    "x-551066-static-list": {
+	        "innerComponents": [],
+			"uiBuilder": {
+				"associatedTypes": ["global.core", "global.landing-page"],
+				"label": "Incidents static list",
+				"icon": "document-outline",
+				"description": "Incidents static list",
+				"category": "primitives"
+			}
+	    }
+	},
+	"scopeName": "x_551066_list_st_0"
+}

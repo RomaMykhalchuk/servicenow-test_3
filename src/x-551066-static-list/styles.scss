@@ -1,0 +1,8 @@
+@import "@servicenow/sass-kit/host";
+
+.card-list {
+  display: grid;
+  width: 70vw;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 10px;
+}
